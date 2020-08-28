@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ErikaReyes/randomwave/issues"
   },
-  "homepage": "https://github.com/ErikaReyes/randomwave#readme"
+  "homepage": "https://github.com/ErikaReyes/randomwave#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
 }
