@@ -16,7 +16,13 @@
     "url": "https://github.com/ErikaReyes/randomwave/issues"
   },
   "homepage": "https://github.com/ErikaReyes/randomwave#readme",
-  "dependencies": {
-    "bootstrap": "^4.5.2"
+  "devDependencies": {
+    "bootstrap": "^4.5.2",
+    "bower": "^1.8.8",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "yarn": "^1.22.5"
   }
 }
