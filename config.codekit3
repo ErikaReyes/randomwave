@@ -1801,16 +1801,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/css\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/assets\/dist\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -3974,7 +3964,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/css\/styles.css",
+		"oAP": "\/assets\/dist\/css\/styles.css",
 		"oF": 3,
 		"oS": 0,
 		"uL": 1
