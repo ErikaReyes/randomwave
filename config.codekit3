@@ -1826,6 +1826,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/assets\/dist\/img\/phone.jpg": {
+		"ft": 16384,
+		"iS": 25214,
+		"oA": 0,
+		"oAP": "\/assets\/dist\/img\/phone.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/dist\/img\/phone.png": {
+		"ft": 32768,
+		"iS": 81328,
+		"oA": 0,
+		"oAP": "\/assets\/dist\/img\/phone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/jquery\/AUTHORS.txt": {
 		"cB": 0,
 		"ft": 8192,
