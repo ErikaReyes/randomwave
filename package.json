@@ -1,7 +1,7 @@
 {
   "name": "randomwave",
   "version": "1.0.0",
-  "description": "Experimentación de proyectos",
+  "description": "Experimentación, tu opinión es muy importante para nosotros, por favor déjala en la cajita invisible que está frente a ti",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
