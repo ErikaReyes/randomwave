@@ -1811,6 +1811,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/dist\/css\/styles.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/dist\/css\/styles.css.map",
+		"oF": 0
+		},
 	"\/assets\/dist\/img\/favicon.gif": {
 		"ft": 4194304,
 		"iS": 65236,
@@ -3926,6 +3933,32 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/assets\/scss\/fonts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/dist\/css\/fonts.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/scss\/styles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/dist\/css\/styles.css",
+		"oF": 3,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -3955,19 +3988,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/scss\/styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/dist\/css\/styles.css",
-		"oF": 3,
-		"oS": 0,
-		"uL": 1
 		}
 	},
 "hooks": [
